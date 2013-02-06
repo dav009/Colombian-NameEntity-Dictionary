@@ -1,4 +1,4 @@
-Colombian Name Entity Dictionary
+## Colombian Name Entity Dictionary
 ===============================
 
 This is a list of automatically  and manually generated Gazeteers (Name entitiy Dictionaries)
@@ -35,7 +35,7 @@ Utils
 
 
 
-Diccionario de Entidades Colombianas
+## Diccionario de Entidades Colombianas
 =====================================
 
 Esta es una lista de Gazeteers( Diccionarios de Entidades)
@@ -70,4 +70,10 @@ Utilidades
 * Lista de Adjetivos Positivos
 * Lista de Adjetivos Sensoriales
 * Lista de Jerga Latinoamericana con expresiones multipalabra
+
+* * *
+##Author
+**David Przybilla**
++ http://twitter.com/dav009
++ dav.alejandro@gmail.com
 
