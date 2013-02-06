@@ -31,6 +31,7 @@ Utils
 * List of Negative Adjectives
 * List of Positive Adjectives
 * List of Sensorial Adjectives
+* List of Latinamerican slang words and multiword Expressions
 
 
 
@@ -68,4 +69,5 @@ Utilidades
 * Lista de Adjetivos Negativos
 * Lista de Adjetivos Positivos
 * Lista de Adjetivos Sensoriales
+* Lista de Jerga Latinoamericana con expresiones multipalabra
 
